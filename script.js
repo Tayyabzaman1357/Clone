@@ -116,4 +116,5 @@ window.addEventListener("click", (e) => { if (e.target === signupModal) signupMo
 
 
 
-console.log("Hello");
+
+
