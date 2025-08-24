@@ -113,3 +113,7 @@ openSignupBtns.forEach(btn => btn.addEventListener("click", (e) => {
 }));
 closeSignup.addEventListener("click", () => { signupModal.style.display = "none"; });
 window.addEventListener("click", (e) => { if (e.target === signupModal) signupModal.style.display = "none"; });
+
+
+
+console.log("Hello");
